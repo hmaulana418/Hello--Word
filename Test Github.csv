@@ -1,0 +1,501 @@
+location_code,barcode,unit_id,tenant,product,color,size,category,sum,base_price,partnership_profit_margin,consignment,stock_nature,weight
+A-01-01-1-1,423-27213-46513-1043635-24-61913,61913,HIJUP offline,Daisy Loafer Nude,Nude,37,Platform,1,450000,,cons,normal,100
+A-01-01-1-1,423-27223-46523-0-24-61924,61924,HIJUP offline,Athena Black,Black,37,,1,380000,,cons,normal,100
+A-01-01-1-1,423-27229-46529-0-35-61931,61931,HIJUP offline,S052-Tree Hi,Black,42,,1,305000,,cons,normal,100
+A-01-01-1-1,423-27981-47546-743210-24-63062,63062,HIJUP offline,Golden Rose,Gold,37,Long Dress,1,285000,,cons,normal,100
+A-01-01-1-1,423-27992-47557-1048575-26-63073,63073,HIJUP offline,Sneaker Wedges 5,White,39,Praying Beads,1,350000,,cons,normal,100
+A-01-01-1-1,423-27993-47558-0-24-63074,63074,HIJUP offline,Karra Boots in Black,Black,37,Praying Beads,1,290000,,cons,normal,100
+A-01-01-1-1,423-28376-48071-1046980-25-63760,63760,HIJUP offline,Pump Di Mare Creme,Creme,38,Praying Beads,1,675000,,cons,normal,100
+A-01-01-1-1,423-28381-48076-25234-32-63765,63765,HIJUP offline,Audreyana Platforms Baby Pink,Baby Pink,40,Platform,1,335000,,cons,normal,100
+A-01-01-1-1,423-28385-48080-114407-25-63769,63769,HIJUP offline,Pandora,Purple,38,Praying Beads,1,220000,,cons,normal,100
+A-01-01-1-1,423-28392-48087-25234-32-63776,63776,HIJUP offline,Lavanda Heels Pink-Grey,Pink-Grey,40,Heels,1,375000,,cons,normal,100
+A-01-01-1-1,v1-423-29549-50810--32-67140,67140,HIJUP offline,Twisted For JFW,White,40,Praying Beads,1,525000,,cons,normal,100
+A-01-01-1-1,v1-423-29550-50811--23-67141,67141,HIJUP offline,Marie,Burgundy,36,Sandals,1,259000,,cons,normal,100
+A-01-01-1-1,v1-423-31382-54338--23-71444,71444,HIJUP offline,Frigg Green,Green,36,Praying Beads,1,395000,,cons,normal,100
+A-01-01-1-2,423-27217-46517-0-23-61918,61918,HIJUP offline,Painted Wedges Shoes Black Butterfly,Black,36,,1,298000,,cons,normal,100
+A-01-01-1-2,423-27224-46524-0-25-61925,61925,HIJUP offline,Pumps Black Butterfly,Black,38,Sandals,1,328000,,cons,normal,100
+A-01-01-1-2,423-27225-46525-1046980-26-61926,61926,HIJUP offline,Sepatu Sandal Lukis Sakura Cream,Cream,39,Flats,1,209000,,cons,normal,1000
+A-01-01-1-2,423-27233-46533-0-26-61935,61935,HIJUP offline,Daisy Loafer,Black,39,,1,450000,,cons,normal,100
+A-01-01-1-2,423-27235-46535-760731-26-61938,61938,HIJUP offline,Painted Flats Shoes Gray Paris,Grey,39,Flats,1,255000,,cons,normal,100
+A-01-01-1-2,423-27981-47546-743210-32-63059,63059,HIJUP offline,Golden Rose,Gold,40,Long Dress,1,285000,,cons,normal,100
+A-01-01-1-2,423-27983-47548-1048575-32-63061,63061,HIJUP offline,Sneaker Wedges,White,40,Sneakers,1,350000,,cons,normal,100
+A-01-01-1-2,423-28059-47633-0-24-63155,63155,HIJUP offline,Damia,Black,37,Sandals,1,350000,,cons,normal,100
+A-01-01-1-2,423-28072-47647-770890-26-63170,63170,HIJUP offline,Lime Calp,Lime,39,Sandals,1,250000,,cons,normal,100
+A-01-01-1-2,423-28388-48083-1046980-25-63772,63772,HIJUP offline,Painted Flats Shoes Creme Lily,Creme,38,Praying Beads,1,285000,,cons,normal,100
+A-01-01-1-2,423-28701-48729-0-26-64598,64598,HIJUP offline,S192-Luna Green,Black-Green,39,Platform,1,355000,,cons,normal,100
+A-01-01-1-2,v1-423-32802-57088--26-74822,74822,HIJUP offline,Maria Black-Peach/Shotistic,Black-Peach,39,Sandals,1,400000,,cons,normal,100
+A-01-01-1-2,v1-423-34082-59824--46-78361,78361,HIJUP offline,ANN Instant Lacoste Shawl / ANN,Coffee,All Size,,1,120000,,cons,normal,100
+A-01-01-1-2,v1-423-37798-67433--23-88413,88413,HIJUP offline,Painted Wedges Shoes Pink Butterfly,Pink,36,,1,298000,,cons,normal,100
+A-01-01-1-3,423-26712-45924-597603-46-61272,61272,HIJUP offline,Fara Long Shirt,Fuschia,All Size,Long Dress,1,325000,,cons,normal,100
+A-01-01-1-3,423-26906-46145-597603-46-61510,61510,HIJUP offline,NK.05 Magenta,Magenta,All Size,Platform,2,225000,,cons,normal,100
+A-01-01-1-3,423-26767-46262-0-46-61629,61629,HIJUP offline,Insana Pouch,Black Green,All Size,Pouch,1,150000,,cons,normal,100
+A-01-01-1-3,423-27647-47110-42158-46-62564,62564,HIJUP offline,Savvy Necklace,Silver,All Size,Necklace,1,80000,,cons,normal,100
+A-01-01-1-3,423-27980-47545-42158-46-63058,63058,HIJUP offline,Valida Headpice,SIlver - White,All Size,Headpiece,1,130000,,cons,normal,100
+A-01-01-1-3,423-28022-47596-831312-46-63116,63116,HIJUP offline,Kle Necklace,Green,All Size,Necklace,1,150000,,cons,normal,100
+A-01-01-1-3,423-28026-47600-560700-46-63120,63120,HIJUP offline,Rose Bracelet Pack,Green,All Size,Bracelet,1,75000,,cons,normal,100
+A-01-01-1-3,423-28064-47638-413952-46-63160,63160,HIJUP offline,JUnko Wristlet In Pale Gold,Gold,All Size,,1,100000,,cons,normal,100
+A-01-01-1-3,423-28110-47690-583369-46-63216,63216,HIJUP offline,Mint Feather Necklace,Mint,All Size,Necklace,1,135000,,cons,normal,100
+A-01-01-1-3,v1-423-32929-57308--46-75131,75131,HIJUP offline,Limoland Pink / Malaika Bag,Pink,All Size,Shoulder Bag,1,250000,,cons,normal,100
+A-01-01-1-3,v1-423-43226-79039--46-104305,104305,HIJUP offline,Kanna Inner Set 6 Warna/Deyn,Multicolor,All Size,,1,199000,,cons,normal,100
+A-01-01-2-1,423-26606-45833-770890-46-61171,61171,HIJUP offline,Khadeeja Khimar Long,Dark Green,All Size,Khimar,1,350000,,cons,normal,100
+A-01-01-2-1,423-26812-46046-1046980-46-61403,61403,HIJUP offline,Kimiko Veil (FR010),Nude,All Size,Square Hijab,1,395000,,cons,normal,100
+A-01-01-2-1,423-27014-46269-0-76-61636,61636,HIJUP offline,Desire Rose,Lime-Green,S,Praying Beads,1,1950000,,cons,normal,100
+A-01-01-2-1,423-27176-46465-572368-46-61863,61863,HIJUP offline,Fascia Soft Pink,Soft Pink,All Size,Tunic,1,225000,,cons,normal,100
+A-01-01-2-1,423-27264-46578-240116-46-61982,61982,HIJUP offline,Khimar Smoke,Dusty Mint,All Size,Pashmina,1,315000,,cons,normal,100
+A-01-01-2-1,423-27668-47150-1046980-46-62604,62604,HIJUP offline,Flower Dress Set,Creme,All Size,Praying Beads,1,400000,,cons,normal,100
+A-01-01-2-1,v1-423-35112-61914--46-81126,81126,HIJUP offline,Anjani Kebaya/Ethnicia Indonesia,Deep Purple,All Size,,1,565000,,cons,normal,100
+A-01-01-2-1,v1-608-42168-76940--80-101311,101311,CSR HIJUP,Kashmar Top,Blue,S/M,,1,199000,,cons,normal,100
+A-01-01-2-1,v1-608-42168-76944--80-101315,101315,CSR HIJUP,Kashmar Top,Green,S/M,,1,199000,,cons,normal,100
+A-01-01-2-1,v1-423-43141-78887--46-104093,104093,HIJUP offline,Ayyasa Khimar/Margaw,Pink,All Size,,1,192500,,cons,normal,100
+A-01-01-2-1,v1-423-46602-85755--46-113667,113667,HIJUP offline,Sam Shawl/Popyt,Black,All Size,,1,100000,,cons,normal,100
+A-01-01-2-2,v1-423-35116-61920--70-81133,81133,HIJUP offline,Butter Cup Skirt/Dena Apparel,Lime,M,Skirt,1,350000,,cons,normal,300
+A-01-01-2-2,v1-423-35116-61920--76-81134,81134,HIJUP offline,Butter Cup Skirt/Dena Apparel,Lime,S,Skirt,1,350000,,cons,normal,300
+A-01-01-2-3,423-27530-46971-611656-46-62400,62400,HIJUP offline,Namie Veil (FR.008),Brown,All Size,Praying Beads,1,375000,,cons,normal,100
+A-01-01-2-4,423-27300-46633-137307-46-62037,62037,HIJUP offline,Magenta Pattern Diameter Veil,Magenta,All Size,Instan Shawl,1,125000,,cons,normal,100
+A-01-01-2-4,423-27307-46644-898732-70-62048,62048,HIJUP offline,Annisa Syria Lace Medium,Mint,M,Instan Shawl,1,225000,,cons,normal,100
+A-01-01-2-4,423-26872-46238-25234-70-62899,62899,HIJUP offline,Magena,Ash,M,Tunic,1,289000,,cons,normal,100
+A-01-01-2-4,v1-423-35113-61917--46-81129,81129,HIJUP offline,Square Bordir/Ethnicia Indonesia,Mint,All Size,Square Hijab,2,250000,,cons,normal,100
+A-01-01-2-4,v1-423-35137-61976--70-81193,81193,HIJUP offline,Srikandi Kebaya/Ethnicia Indonesia,Pink,M,,1,495000,,cons,normal,100
+A-01-01-2-4,v1-717-53100-98934--46-133103,133103,Promo CSR ,Kullu : Cotton Candy Shirt CSR Defect,Blue,All Size,Shirt,3,260000,,cons,normal,300
+A-01-01-2-4,v1-717-53100-98935--46-133104,133104,Promo CSR ,Kullu : Cotton Candy Shirt CSR Defect,Pink,All Size,Shirt,4,260000,,cons,normal,300
+A-01-01-2-4,v1-717-53101-98936--46-133105,133105,Promo CSR ,Kullu : Viona Outer CSR,Pink-Cream,All Size,Cardigan,4,297500,,cons,normal,300
+A-01-01-2-4,v1-717-53103-98938--46-133107,133107,Promo CSR ,Kullu : Robyn Shirt CSR Defect,White,All Size,Shirt,2,202500,,cons,normal,300
+A-01-01-2-4,v1-717-53101-98945--46-133114,133114,Promo CSR ,Kullu : Viona Outer CSR,Cream-Pink,All Size,Cardigan,5,297500,,cons,normal,300
+A-01-01-3-1,423-26756-45977-868407-46-61327,61327,HIJUP offline,Turban (TUR0101),Deep Brown,All Size,Praying Beads,1,45000,,cons,normal,100
+A-01-01-3-1,423-26902-46141-188379-46-61506,61506,HIJUP offline,Inner Ninja Soul,Tosca,All Size,Ciput,1,65000,,cons,normal,100
+A-01-01-3-1,423-27174-46463-191474-46-61861,61861,HIJUP offline,Lilian Veil,Soft Tosca,All Size,Instan Shawl,1,250000,,cons,normal,100
+A-01-01-3-1,423-27261-46574-1040562-46-61978,61978,HIJUP offline,Pashmina Hoodie Lilit,Cream,All Size,Pashmina,1,85000,,cons,normal,100
+A-01-01-3-1,423-27264-46578-240116-46-61982,61982,HIJUP offline,Khimar Smoke,Dusty Mint,All Size,Pashmina,1,315000,,cons,normal,100
+A-01-01-3-1,423-27274-46593-25234-46-61997,61997,HIJUP offline,Pashmina Loly,Dusty Pink,All Size,Pashmina,1,155000,,cons,normal,100
+A-01-01-3-1,423-27272-46600-1043635-46-62004,62004,HIJUP offline,Pashmina Ruffle,Khaki,All Size,Pashmina,1,125000,,cons,normal,100
+A-01-01-3-1,423-26753-46653-465948-46-62057,62057,HIJUP offline,Inner Bergo Instant,Red,All Size,Ciput,1,50000,,cons,normal,100
+A-01-01-3-1,423-27316-46657-597603-46-62061,62061,HIJUP offline,Turban Series,Fuschia,All Size,Instan Shawl,1,55000,,cons,normal,100
+A-01-01-3-1,423-27082-46821-25234-46-62247,62247,HIJUP offline,Karra Veil,Pink,All Size,Square Hijab,1,135000,,cons,normal,100
+A-01-01-3-1,423-27516-46946-597603-46-62374,62374,HIJUP offline,Slimface Bun Faux,Fuschia,All Size,Ciput,1,90000,,cons,normal,100
+A-01-01-3-1,423-27244-46953-114407-46-62381,62381,HIJUP offline,Silk Satin Scarf,Baby Purple,All Size,Praying Beads,1,66900,,cons,normal,100
+A-01-01-3-1,423-27272-46962-611656-46-62390,62390,HIJUP offline,Pashmina Ruffle,Brown,All Size,Pashmina,1,125000,,cons,normal,100
+A-01-01-3-1,423-27244-47125-166097-46-62579,62579,HIJUP offline,Silk Satin Scarf,Electric Blue,All Size,Praying Beads,4,66900,,cons,normal,100
+A-01-01-3-1,423-27299-47129-87963-46-62583,62583,HIJUP offline,Ciput Melody,Electric Blue,All Size,Praying Beads,1,40000,,cons,normal,100
+A-01-01-3-1,423-27657-47141-847304-46-62595,62595,HIJUP offline,Tatiana Veil,Tosca,All Size,Praying Beads,1,150000,,cons,normal,100
+A-01-01-3-1,423-27504-47148-770093-46-62602,62602,HIJUP offline,Askana Shawl,Mustard,All Size,Praying Beads,1,150000,,cons,normal,100
+A-01-01-3-1,423-27127-47241-1046980-46-62698,62698,HIJUP offline,Tube Veil,Broken white,All Size,Praying Beads,1,250000,,cons,normal,100
+A-01-01-3-1,423-27675-47419-25234-46-62887,62887,HIJUP offline,Silky Glamour Peafowl,White - Pink,All Size,Praying Beads,1,105000,,cons,normal,100
+A-01-01-3-1,423-26885-47429-611656-46-62898,62898,HIJUP offline,Jilbab Allya Long,Deep Brown,All Size,Praying Beads,1,325000,,cons,normal,100
+A-01-01-3-1,423-28029-47603-572368-46-63123,63123,HIJUP offline,Pink Petals,Pink,All Size,Tunic,1,150000,,cons,normal,100
+A-01-01-3-1,v1-423-32922-57301--46-75124,75124,HIJUP offline,FS Espresso Inner / Hauri Scarves,Espresso,All Size,Ciput,1,150000,,cons,normal,100
+A-01-01-3-1,v1-423-43129-78875--46-104081,104081,HIJUP offline,Onic Square/All's Scarf,Green 3,All Size,,1,52500,,cons,normal,100
+A-01-01-3-1,v1-423-27448-86236--46-114311,114311,HIJUP offline,Pearl Glamour Peafowl,Dark Yellow,All Size,Praying Beads,1,125000,,cons,normal,100
+A-01-01-3-1,v1-423-26898-86469--46-114639,114639,HIJUP offline,Inner Ninja Classic,Red,All Size,Ciput,2,65000,,cons,normal,100
+A-01-01-3-1,v1-423-48985-90829--46-120877,120877,HIJUP offline,Pearl Glamour Peafowl/Aprilia,Light Pink,All Size,,1,125000,,cons,normal,100
+A-01-01-3-3,423-26712-45924-597603-46-61272,61272,HIJUP offline,Fara Long Shirt,Fuschia,All Size,Long Dress,2,325000,,cons,normal,100
+A-01-01-3-3,423-27082-46348-847304-46-61719,61719,HIJUP offline,Karra Veil,Light Green,All Size,Square Hijab,1,135000,,cons,normal,100
+A-01-01-3-3,423-27675-47158-25234-46-62612,62612,HIJUP offline,Silky Glamour Peafowl,White-Pink,All Size,Praying Beads,1,105000,,cons,normal,100
+A-01-01-3-3,423-27879-47421-26670-46-62889,62889,HIJUP offline,Junko Wrislet In Pale Gold,Gold,All Size,Tote Bag,1,110000,,cons,normal,100
+A-01-01-3-3,v1-423-31592-54795--46-72039,72039,HIJUP offline,LUX with HIJUP SCARF,Purple,All Size,Praying Beads,1,215000,,cons,normal,100
+A-01-01-3-3,v1-423-38528-68953--46-90450,90450,HIJUP offline,Junko Wrislet in Olive,Olive,All Size,,3,110000,,cons,normal,100
+A-01-01-3-3,v1-423-38529-68954--46-90451,90451,HIJUP offline,Junko Wrislet in Gold,Gold,All Size,,1,110000,,cons,normal,100
+A-01-01-3-3,v1-423-48977-90821--46-120869,120869,HIJUP offline,Askana Shawl/Such,Magenta,All Size,,1,150000,,cons,normal,100
+A-01-01-4-1,423-26753-46140-682184-46-61505,61505,HIJUP offline,Inner Bergo Instant,Violet,All Size,Ciput,2,50000,,cons,normal,100
+A-01-01-4-1,423-26918-46159-25234-46-61524,61524,HIJUP offline,Convy Syiria,Dusty Pink,All Size,Instan Shawl,1,195000,,cons,normal,100
+A-01-01-4-1,423-26925-46169-597603-46-61534,61534,HIJUP offline,Plain Instant Shawl,Fuschia,All Size,Instan Shawl,1,85000,,cons,normal,100
+A-01-01-4-1,423-26933-46210-1033207-46-61575,61575,HIJUP offline,Jilbab Allya Medium,Light Blue,All Size,Khimar,2,250000,,cons,normal,100
+A-01-01-4-1,423-26986-46234-16287-23-61601,61601,HIJUP offline,Demeter,Navy,36,Instan Shawl,1,355000,,cons,normal,100
+A-01-01-4-1,423-27082-46348-847304-46-61719,61719,HIJUP offline,Karra Veil,Light Green,All Size,Square Hijab,1,135000,,cons,normal,100
+A-01-01-4-1,423-27127-46405-760731-46-61780,61780,HIJUP offline,Tube Veil,Grey,All Size,Praying Beads,1,250000,,cons,normal,100
+A-01-01-4-1,423-27213-46513-1043635-23-61914,61914,HIJUP offline,Daisy Loafer Nude,Nude,36,Platform,1,450000,,cons,normal,100
+A-01-01-4-1,423-27215-46515-1048575-24-61916,61916,HIJUP offline,Shadeva,White,37,Sandals,1,350000,,cons,normal,100
+A-01-01-4-1,423-27229-46529-0-35-61931,61931,HIJUP offline,S052-Tree Hi,Black,42,,1,305000,,cons,normal,100
+A-01-01-4-1,423-27246-46547-831312-46-61951,61951,HIJUP offline,Pashmina Hoodie Mutiara Double,Green,All Size,Pashmina,1,165000,,cons,normal,100
+A-01-01-4-1,423-27273-46592-1048575-46-61996,61996,HIJUP offline,Pashmina Neckly Ruffle,White,All Size,Pashmina,1,115000,,cons,normal,100
+A-01-01-4-1,423-27255-46595-1032455-46-61999,61999,HIJUP offline,Bersha Shawl,Mustard,All Size,Praying Beads,1,165000,,cons,normal,100
+A-01-01-4-1,423-27277-46599-511176-46-62003,62003,HIJUP offline,Pashmina Smoke Vintage,Pale Choco,All Size,Pashmina,1,165000,,cons,normal,100
+A-01-01-4-1,423-26753-46630-1046980-46-62034,62034,HIJUP offline,Inner Bergo Instant,Broken White,All Size,Ciput,1,50000,,cons,normal,100
+A-01-01-4-1,423-26758-46797-0-46-62223,62223,HIJUP offline,Talita Instant Scarf,Black,All Size,Instan Shawl,1,125000,,cons,normal,100
+A-01-01-4-1,423-27510-46939-682184-46-62367,62367,HIJUP offline,Cerruti scarf,Purple,All Size,Square Hijab,1,70000,,cons,normal,100
+A-01-01-4-1,423-27511-46940-1011456-46-62368,62368,HIJUP offline,Hoojab Kaimma,Orange,All Size,Tunic,1,100000,,cons,normal,100
+A-01-01-4-1,423-27518-46949-465948-46-62377,62377,HIJUP offline,Askana Cerruti,Maroon,All Size,Praying Beads,1,110000,,cons,normal,100
+A-01-01-4-1,423-27568-47013-0-46-62466,62466,HIJUP offline,Fiore,Black,All Size,Praying Beads,1,335000,,cons,normal,100
+A-01-01-4-1,423-26758-47135-996876-46-62589,62589,HIJUP offline,Talita Instant Scarf,Dark Brown,All Size,Instan Shawl,1,125000,,cons,normal,100
+A-01-01-4-1,423-27447-47157-1044854-46-62611,62611,HIJUP offline,Pearl Square Scarf,Mustard,All Size,Square Hijab,1,125000,,cons,normal,100
+A-01-01-4-1,423-27726-47216-379625-64-62670,62670,HIJUP offline,Annisa Syria Lace,Blue,L,Tunic,1,245000,,cons,normal,100
+A-01-01-4-1,423-27792-47290-1035730-46-62749,62749,HIJUP offline,Lily Veil,Pink,All Size,Khimar,1,350000,,cons,normal,100
+A-01-01-4-1,423-27240-47358-1048575-46-62825,62825,HIJUP offline,Wrap Shawl ,White,All Size,Instan Shawl,1,150000,,cons,normal,100
+A-01-01-4-1,423-27232-46532-0-25-63072,63072,HIJUP offline,GMA,Black Gold,38,Heels,1,320000,,cons,normal,100
+A-01-01-4-1,423-28386-48081-0-23-63770,63770,HIJUP offline,Painted Wedges Shoes Black Music,Black,36,Praying Beads,1,328000,,cons,normal,100
+A-01-01-4-1,v1-423-29805-51386--46-67846,67846,HIJUP offline,Flowery Shawl,White,All Size,Square Hijab,1,150000,,cons,normal,100
+A-01-01-4-1,v1-423-31379-54335--32-71441,71441,HIJUP offline,Fam Mia Moi White for JFW,White,40,Praying Beads,1,507000,,cons,normal,100
+A-01-01-4-1,v1-423-31592-54795--46-72039,72039,HIJUP offline,LUX with HIJUP SCARF,Purple,All Size,Praying Beads,1,215000,,cons,normal,100
+A-01-01-4-1,v1-423-35114-61918--46-81130,81130,HIJUP offline,Pashmina Bordir/Ethnicia Indonesia,Tosca,All Size,Pashmina,1,225000,,cons,normal,100
+A-01-01-4-1,v1-538-35744-63258--46-83038,83038,HIJUP X MISSMARINA,Alana Veil,Blue,All Size,Khimar,1,180000,,cons,normal,100
+A-01-01-4-1,v1-423-46601-85753--46-113665,113665,HIJUP offline,Diamond Shawl 2/Una Style,Black,All Size,,1,95000,,cons,normal,100
+A-01-01-4-1,v1-423-46602-85756--46-113668,113668,HIJUP offline,Sam Shawl/Popyt,Cream,All Size,,1,100000,,cons,normal,100
+A-01-01-4-1,v1-423-49074-90969--26-121096,121096,HIJUP offline,Daisy Loafer Nude/Shotistic,Nude,39,,1,450000,,cons,normal,100
+A-01-01-4-1,v1-423-51740-96262--32-129074,129074,HIJUP offline,Vigna Red Brown/Naima,Red Brown,40,,1,575000,,cons,normal,100
+A-01-01-4-1,v1-423-52951-98609--25-132673,132673,HIJUP offline,New MMO 05-BEI/Minka Shoes,Moore Beige,38,,1,359000,,cons,normal,100
+A-01-01-4-1,v1-423-56137-105125--25-141458,141458,HIJUP offline,Gani Black White/Shoecorner,Black White,38,,1,349000,,cons,normal,100
+A-01-03-2-4,v1-564-62631-116474--64-155571,155571,Nay Sportswear,Raveena Swimwear,Black-Tosca,L,Sport,5,499000,,cons,normal,300
+A-01-03-3-4,423-26721-45933-760731-70-61594,61594,HIJUP offline,Tiana Dress Breastfeeding,Light Grey-Aquamarine Blue,M,Long Dress,1,695000,,cons,normal,300
+A-01-03-3-4,423-27036-46295-379625-70-61663,61663,HIJUP offline,Ginger Shirt breastfeeding,Light Grey-Aquamarine Blue,M,Breast Feeding,1,535000,,cons,normal,100
+A-01-03-3-4,423-26762-45985-539-76-63101,63101,HIJUP offline,Eloi Pants,Red,S,Pants,1,575000,,cons,normal,100
+A-01-03-3-4,v1-423-33724-58926--46-77209,77209,HIJUP offline,Kumamoto Outer Cape For IFW / Anemone,Black-White,All Size,,1,1200000,,cons,normal,100
+A-01-03-4-1,423-26901-46139-831312-46-61504,61504,HIJUP offline,J.020 Airy Veil,Green,All Size,,2,150000,,cons,normal,100
+A-01-03-4-1,423-27240-46540-1040562-46-61944,61944,HIJUP offline,Wrap Shawl ,Light Khaki,All Size,Instan Shawl,1,150000,,cons,normal,100
+A-01-03-4-1,423-27254-46572-572368-46-61976,61976,HIJUP offline,P'Z Tone,Dusty Purple Beige,All Size,Tunic,1,155000,,cons,normal,100
+A-01-03-4-1,423-26753-46632-1005346-46-62036,62036,HIJUP offline,Inner Bergo Instant,Terracota,All Size,Ciput,1,50000,,cons,normal,100
+A-01-03-4-1,423-27261-46966-1043635-46-62394,62394,HIJUP offline,Pashmina Hoodie Lilit,Salem,All Size,Pashmina,1,85000,,cons,normal,100
+A-01-03-4-1,423-27825-47335-42158-46-62799,62799,HIJUP offline,Short Twist Veil,Glitter Grey,All Size,Instan Shawl,1,130000,,cons,normal,100
+A-01-03-4-1,423-27240-47358-1048575-46-62825,62825,HIJUP offline,Wrap Shawl ,White,All Size,Instan Shawl,1,150000,,cons,normal,100
+A-01-03-4-1,423-28827-49125-664446-46-65019,65019,HIJUP offline,Rana Set Navy Motif,Navy-Creme,All Size,Long Dress,1,679000,,cons,normal,100
+A-01-03-4-1,v1-423-29554-50815--46-67145,67145,HIJUP offline,New Askana Shawl,Mustard,All Size,Instan Shawl,1,150000,,cons,normal,100
+A-01-03-4-1,v1-495-34079-59817--46-78354,78354,Hijup Sample,New Antem / Meccanism,Grey Silver,All Size,Ciput,1,95000,,cons,normal,100
+A-02-02-3-1,65-2441-5763---8077,8077,Myzeekha,Pattern Shawl ,Fuschia,All Size,Scarf,1,85000,0.35,cons,normal,100
+A-02-02-3-1,423-26753-46140-682184-46-61505,61505,HIJUP offline,Inner Bergo Instant,Violet,All Size,Ciput,2,50000,,cons,normal,100
+A-02-02-3-1,423-26916-46157-1040562-46-61522,61522,HIJUP offline,Pearl Peafowl Chiffon Glitter,Cream,All Size,Instan Shawl,1,150000,,cons,normal,100
+A-02-02-3-1,423-26898-46164-379625-46-61529,61529,HIJUP offline,Inner Ninja Classic,Soft Blue,All Size,Ciput,1,65000,,cons,normal,100
+A-02-02-3-1,423-26898-46165-868407-46-61530,61530,HIJUP offline,Inner Ninja Classic,Ekspresso,All Size,Ciput,1,65000,,cons,normal,100
+A-02-02-3-1,423-26981-46251-223518-46-61618,61618,HIJUP offline,Turban Motif (TUR0201),Stripe Green,All Size,Praying Beads,1,45000,,cons,normal,100
+A-02-02-3-1,423-27018-46273-25234-46-61640,61640,HIJUP offline,Neon Shawl,Pink,All Size,Square Hijab,1,65000,,cons,normal,100
+A-02-02-3-1,423-27176-46465-572368-46-61863,61863,HIJUP offline,Fascia Soft Pink,Soft Pink,All Size,Tunic,1,225000,,cons,normal,100
+A-02-02-3-1,423-27177-46466-620242-46-61864,61864,HIJUP offline,Wavy Two Tone,Blue,All Size,Praying Beads,1,100000,,cons,normal,100
+A-02-02-3-1,423-26964-46569-611656-46-61973,61973,HIJUP offline,Inner Scarf Ninja,Brown,All Size,Ciput,1,65000,,cons,normal,100
+A-02-02-3-1,423-27279-46603-1046980-46-62007,62007,HIJUP offline,Peafowl Chiffone Flowery,Creme Pink,All Size,,1,99000,,cons,normal,100
+A-02-02-3-1,423-26753-46632-1005346-46-62036,62036,HIJUP offline,Inner Bergo Instant,Terracota,All Size,Ciput,1,50000,,cons,normal,100
+A-02-02-3-1,423-26898-46649-597603-46-62053,62053,HIJUP offline,Inner Ninja Classic,Shock Pink,All Size,Ciput,1,65000,,cons,normal,100
+A-02-02-3-1,423-26753-46652-624331-46-62056,62056,HIJUP offline,Inner Bergo Instant,Cyan,All Size,Ciput,1,50000,,cons,normal,100
+A-02-02-3-1,423-27277-46926-25234-46-62354,62354,HIJUP offline,Pashmina Smoke Vintage,Dusty Pink,All Size,Pashmina,1,165000,,cons,normal,100
+A-02-02-3-1,423-27273-46961-0-46-62389,62389,HIJUP offline,Pashmina Neckly Ruffle,Black,All Size,Pashmina,1,115000,,cons,normal,100
+A-02-02-3-1,423-27631-47090-0-46-62544,62544,HIJUP offline,Hedaya Diameter Veil,Black,All Size,Instan Shawl,1,125000,,cons,normal,100
+A-02-02-3-1,423-27504-47092-682184-46-62546,62546,HIJUP offline,Askana Shawl,Magenta,All Size,Praying Beads,1,150000,,cons,normal,100
+A-02-02-3-1,423-26899-47093-465948-46-62547,62547,HIJUP offline,Inner Bun Faux,Red,All Size,Ciput,1,90000,,cons,normal,100
+A-02-02-3-1,423-27277-47329-116612-46-62793,62793,HIJUP offline,Pashmina Smoke Vintage,Mint,All Size,Pashmina,1,165000,,cons,normal,100
+A-02-02-3-1,423-27503-47331-1043259-46-62795,62795,HIJUP offline,Viscose Shawl,Yellow,All Size,Praying Beads,1,80000,,cons,normal,100
+A-02-02-3-1,423-27824-47334-16287-46-62798,62798,HIJUP offline,Kamila Hijab,Navy,All Size,Praying Beads,1,100000,,cons,normal,100
+A-02-02-3-1,423-27825-47335-42158-46-62799,62799,HIJUP offline,Short Twist Veil,Glitter Grey,All Size,Instan Shawl,1,130000,,cons,normal,100
+A-02-02-3-1,v1-34-32133-55746--46-73227,73227,HIJUP,Popyt (Gift),Multicolor,All Size,,1,10000,,cons,normal,100
+A-02-02-3-1,v1-423-35139-61982--46-81199,81199,HIJUP offline,Pasmina Glam Rami/Errin Ugaru,Soft Green,All Size,,1,170000,,cons,normal,100
+A-02-02-3-1,v1-423-43130-78876--46-104082,104082,HIJUP offline,Shimar Daily Square/Mars Indonesia,Maroon,All Size,,1,55300,,cons,normal,100
+A-02-02-3-1,v1-423-46599-85750--46-113662,113662,HIJUP offline,Tassel Soutache/Popyt,Maroon,All Size,,1,85000,,cons,normal,100
+A-02-02-3-1,v1-423-46600-85751--46-113663,113663,HIJUP offline,Stroll Silver/Aglaea,Silver,All Size,,1,130000,,cons,normal,100
+A-02-02-3-1,v1-423-46601-85752--46-113664,113664,HIJUP offline,Diamond Shawl 2/Una Style,Purple,All Size,,1,95000,,cons,normal,100
+A-02-02-3-1,v1-423-48982-90826--46-120874,120874,HIJUP offline,AL 004/Angel Lelga,Maroon,All Size,,1,245000,,cons,normal,100
+A-02-02-3-1,v1-423-48985-90831--46-120879,120879,HIJUP offline,Pearl Glamour Peafowl/Aprilia,Dusty Pink,All Size,,1,125000,,cons,normal,100
+A-02-02-3-1,v1-423-48992-90837--46-120885,120885,HIJUP offline,Pashmina Hoodie Lilit/Ridcoll,Khaki,All Size,,1,85000,,cons,normal,100
+A-02-02-3-1,v1-423-49076-90971--46-121098,121098,HIJUP offline,Scila Scarf/Her By February,Grey,All Size,,1,85000,,cons,normal,100
+A-02-03-1-1,v1-778-62022-115221--46-153962,153962,Jenna & Kaia,New Lui Top Plain for HIJUP,Dusty Green,All Size,Tunic,18,489000,0,beli-putus,normal,300
+A-02-03-1-2,v1-778-62026-115288--46-154043,154043,Jenna & Kaia,New Luana Top for HIJUP,Green Sage,All Size,Blouse,25,489000,0,beli-putus,normal,300
+A-02-03-1-3,v1-778-62023-115289--46-154044,154044,Jenna & Kaia,New Anela Dress for HIJUP,Peacock Green,All Size,Long Dress,13,579000,0,beli-putus,normal,300
+A-02-03-1-4,v1-778-62023-115223--46-153964,153964,Jenna & Kaia,New Anela Dress for HIJUP,Misty Green,All Size,Long Dress,13,579000,0,beli-putus,normal,300
+A-02-03-2-1,v1-778-62022-115221--46-153962,153962,Jenna & Kaia,New Lui Top Plain for HIJUP,Dusty Green,All Size,Tunic,3,489000,0,beli-putus,normal,300
+A-02-03-2-2,v1-778-62026-115288--46-154043,154043,Jenna & Kaia,New Luana Top for HIJUP,Green Sage,All Size,Blouse,3,489000,0,beli-putus,normal,300
+A-02-03-2-3,v1-778-62023-115289--46-154044,154044,Jenna & Kaia,New Anela Dress for HIJUP,Peacock Green,All Size,Long Dress,3,579000,0,beli-putus,normal,300
+A-02-03-2-4,v1-778-62023-115223--46-153964,153964,Jenna & Kaia,New Anela Dress for HIJUP,Misty Green,All Size,Long Dress,3,579000,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62724-116750--76-155929,155929,Dian Pelangi,Carolla Dress Rayon Batik Abstrak,Navy,S,Long Dress,1,467500,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62726-116753--82-155932,155932,Dian Pelangi,Agassi Dress Rayon Batik Abstrak,Olive,XL,Long Dress,1,467500,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62726-116754--70-155933,155933,Dian Pelangi,Agassi Dress Rayon Batik Abstrak,Olive-Cream,M,Long Dress,1,467500,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62727-116755--64-155934,155934,Dian Pelangi,Dominic Dress Rayon Batik Abstrak,Khaki,L,Long Dress,1,510000,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62727-116756--82-155935,155935,Dian Pelangi,Dominic Dress Rayon Batik Abstrak,Grey,XL,Long Dress,1,510000,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62728-116758--64-155937,155937,Dian Pelangi,Ina Tunik Rayon Moscrepe Abstrak,Mint,L,Tunic,1,397000,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62730-116763--76-155942,155942,Dian Pelangi,Zahna Tunik Santung Batik Abstrak,Turquoise,S,Tunic,1,440000,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62731-116767--82-155946,155946,Dian Pelangi,Ariana Dress Silk Rayon Abstrak,Olive,XL,Long Dress,1,496000,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62732-116768--64-155947,155947,Dian Pelangi,Dhawy Tunik Rayon Moscrepe Abstrak,Khaki,L,Tunic,1,397000,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62732-116769--76-155948,155948,Dian Pelangi,Dhawy Tunik Rayon Moscrepe Abstrak,Dark Grey,S,Tunic,1,397000,0,beli-putus,normal,300
+A-02-03-2-4,v1-114-62732-116779--64-155960,155960,Dian Pelangi,Dhawy Tunik Rayon Moscrepe Abstrak,Blue,L,Tunic,1,397000,0,beli-putus,normal,300
+A-02-03-3-1,v1-175-62852-117021--46-156251,156251,Tatuis,Tiara 428 Inas Haura White Bluish,White Bluish,All Size,Mukena,12,240000,0.2,cons,normal,800
+A-02-03-3-2,v1-778-62022-115221--46-153962,153962,Jenna & Kaia,New Lui Top Plain for HIJUP,Dusty Green,All Size,Tunic,17,489000,0,beli-putus,normal,300
+A-02-03-3-3,v1-778-62026-115288--46-154043,154043,Jenna & Kaia,New Luana Top for HIJUP,Green Sage,All Size,Blouse,13,489000,0,beli-putus,normal,300
+A-02-03-3-4,v1-778-62021-115220--46-153961,153961,Jenna & Kaia,New Lui Top Pleats for HIJUP,Peach,All Size,Tunic,11,489000,0,beli-putus,normal,300
+A-02-04-1-2,v1-754-62699-116677--46-155848,155848,Nadjani Indonesia,Ryuna Tunic,Glory,All Size,Tunic,7,465000,0,cons,very_fast_moving,300
+A-02-04-1-3,v1-754-62699-116676--46-155847,155847,Nadjani Indonesia,Ryuna Tunic,Navy Collab,All Size,Tunic,8,465000,0,cons,very_fast_moving,300
+A-02-04-1-4,v1-564-62631-116474--82-155570,155570,Nay Sportswear,Raveena Swimwear,Black-Tosca,XL,Sport,5,499000,,cons,normal,300
+A-02-04-2-1,v1-778-62023-115289--46-154044,154044,Jenna & Kaia,New Anela Dress for HIJUP,Peacock Green,All Size,Long Dress,7,579000,0,beli-putus,normal,300
+A-02-04-2-2,v1-778-62023-115289--46-154044,154044,Jenna & Kaia,New Anela Dress for HIJUP,Peacock Green,All Size,Long Dress,12,579000,0,beli-putus,normal,300
+A-02-04-2-3,v1-754-62699-116675--46-155846,155846,Nadjani Indonesia,Ryuna Tunic,Peach Collab,All Size,Tunic,2,465000,0,cons,very_fast_moving,300
+A-02-04-2-3,v1-802-62865-117036--82-156269,156269,Qaaf Indonesia,Qaaf Kurta Jazib,Black,XL,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62865-117036--76-156272,156272,Qaaf Indonesia,Qaaf Kurta Jazib,Black,S,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62869-117040--76-156288,156288,Qaaf Indonesia,Qaaf Kurta Byzantium Navy,Navy,S,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62870-117041--82-156289,156289,Qaaf Indonesia,Qaaf Kurta Diwan Purple,Mocha,XL,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62870-117041--64-156290,156290,Qaaf Indonesia,Qaaf Kurta Diwan Purple,Mocha,L,Menswear,2,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62870-117041--70-156291,156291,Qaaf Indonesia,Qaaf Kurta Diwan Purple,Mocha,M,Menswear,2,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62870-117041--76-156292,156292,Qaaf Indonesia,Qaaf Kurta Diwan Purple,Mocha,S,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62871-117042--82-156293,156293,Qaaf Indonesia,Qaaf Kurta Diwan Yellow,Mocha,XL,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62871-117042--64-156294,156294,Qaaf Indonesia,Qaaf Kurta Diwan Yellow,Mocha,L,Menswear,2,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62871-117042--70-156295,156295,Qaaf Indonesia,Qaaf Kurta Diwan Yellow,Mocha,M,Menswear,2,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62871-117042--76-156296,156296,Qaaf Indonesia,Qaaf Kurta Diwan Yellow,Mocha,S,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-2-3,v1-802-62872-117043--85-156297,156297,Qaaf Indonesia,Qaaf Sirwal Beludru,Grey,XXL,,1,200000,0.3,cons,normal,100
+A-02-04-2-3,v1-802-62872-117043--82-156298,156298,Qaaf Indonesia,Qaaf Sirwal Beludru,Grey,XL,,1,200000,0.3,cons,normal,100
+A-02-04-2-4,v1-564-62631-116474--76-155573,155573,Nay Sportswear,Raveena Swimwear,Black-Tosca,S,Sport,5,499000,,cons,normal,300
+A-02-04-3-1,v1-175-62863-117032--46-156262,156262,Tatuis,Shiva 122 Abidah Khairiyah Maxi Nude,Nude,All Size,Mukena,12,325000,0.2,cons,normal,800
+A-02-04-3-2,v1-802-62865-117036--64-156270,156270,Qaaf Indonesia,Qaaf Kurta Jazib,Black,L,Menswear,2,295000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62865-117036--70-156271,156271,Qaaf Indonesia,Qaaf Kurta Jazib,Black,M,Menswear,3,295000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62866-117037--70-156275,156275,Qaaf Indonesia,Qaaf Kurta Ehsan,Maroon,M,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62867-117038--70-156279,156279,Qaaf Indonesia,Qaaf Kurta Kafeel,Maroon,M,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62869-117040--82-156285,156285,Qaaf Indonesia,Qaaf Kurta Byzantium Navy,Navy,XL,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62869-117040--64-156286,156286,Qaaf Indonesia,Qaaf Kurta Byzantium Navy,Navy,L,Menswear,3,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62869-117040--70-156287,156287,Qaaf Indonesia,Qaaf Kurta Byzantium Navy,Navy,M,Menswear,2,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62870-117041--70-156291,156291,Qaaf Indonesia,Qaaf Kurta Diwan Purple,Mocha,M,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62871-117042--70-156295,156295,Qaaf Indonesia,Qaaf Kurta Diwan Yellow,Mocha,M,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62873-117044--70-156304,156304,Qaaf Indonesia,Qaaf Gamis Aisy,Navy,M,Long Dress,1,370000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62874-117045--70-156308,156308,Qaaf Indonesia,Qaaf Kurta Faza White,White,M,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62875-117046--64-156310,156310,Qaaf Indonesia,Qaaf Kurta Qayyim,Dark Grey,L,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62875-117047--82-156311,156311,Qaaf Indonesia,Qaaf Kurta Qayyim,White,XL,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62875-117047--70-156312,156312,Qaaf Indonesia,Qaaf Kurta Qayyim,White,M,Menswear,2,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62875-117047--76-156313,156313,Qaaf Indonesia,Qaaf Kurta Qayyim,White,S,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62875-117048--82-156314,156314,Qaaf Indonesia,Qaaf Kurta Qayyim,Navy,XL,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62875-117048--64-156315,156315,Qaaf Indonesia,Qaaf Kurta Qayyim,Navy,L,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62877-117051--76-156321,156321,Qaaf Indonesia,Qaaf Kurta Hijazi,Cream,S,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62877-117051--64-156323,156323,Qaaf Indonesia,Qaaf Kurta Hijazi,Cream,L,Menswear,1,280000,0.3,cons,normal,300
+A-02-04-3-2,v1-802-62878-117056--64-156328,156328,Qaaf Indonesia,Qaaf Kurta Mu'tashim,Maroon,L,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-3-3,v1-754-62698-116673--46-155844,155844,Nadjani Indonesia,Dianta Tunic,Navy,All Size,Tunic,1,455000,0,cons,very_fast_moving,300
+A-02-04-3-3,v1-802-62873-117044--82-156302,156302,Qaaf Indonesia,Qaaf Gamis Aisy,Navy,XL,Long Dress,2,370000,0.3,cons,normal,300
+A-02-04-3-3,v1-802-62873-117044--64-156303,156303,Qaaf Indonesia,Qaaf Gamis Aisy,Navy,L,Long Dress,2,370000,0.3,cons,normal,300
+A-02-04-3-3,v1-802-62873-117044--70-156304,156304,Qaaf Indonesia,Qaaf Gamis Aisy,Navy,M,Long Dress,1,370000,0.3,cons,normal,300
+A-02-04-3-3,v1-802-62873-117044--76-156305,156305,Qaaf Indonesia,Qaaf Gamis Aisy,Navy,S,Long Dress,2,370000,0.3,cons,normal,300
+A-02-04-3-3,v1-802-62878-117056--64-156328,156328,Qaaf Indonesia,Qaaf Kurta Mu'tashim,Maroon,L,Menswear,2,295000,0.3,cons,normal,300
+A-02-04-3-3,v1-802-62878-117056--70-156329,156329,Qaaf Indonesia,Qaaf Kurta Mu'tashim,Maroon,M,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-3-3,v1-802-62878-117056--76-156330,156330,Qaaf Indonesia,Qaaf Kurta Mu'tashim,Maroon,S,Menswear,1,295000,0.3,cons,normal,300
+A-02-04-3-4,v1-564-62631-116474--70-155572,155572,Nay Sportswear,Raveena Swimwear,Black-Tosca,M,Sport,4,499000,,cons,normal,300
+A-02-05-1-1,v1-169-60289-112225--46-150036,150036,Covering Story,Nadine  Dress,Navy (C),All Size,Long Dress,2,310000,0.4,cons,normal,300
+A-02-05-1-1,v1-169-60289-112227--46-150038,150038,Covering Story,Nadine  Dress,Baby Pink (A),All Size,Long Dress,5,310000,0.4,cons,normal,300
+A-02-05-1-1,v1-745-61005-113507--82-151676,151676,Rayaainun,Asma Dress 1,Black,XL,Long Dress,9,195000,,cons,normal,300
+A-02-05-1-1,v1-722-61892-114971--68-153601,153601,Ghaisani Hijab,Hulia Dress for HIJUP,Mocca,L/XL,Long Dress,8,348000,0,cons,normal,300
+A-02-05-1-2,v1-498-56833-106576--46-143274,143274,Zahra Signature,Pallazo Skirt Denim,Light Blue,All Size,Palazzo,5,369000,0.4,cons,normal,300
+A-02-05-1-2,v1-426-54868-112292--64-150110,150110,LAV Indonesia,Basic Dress #01,Baby Blue,L,Long Dress,3,299000,0.4,cons,normal,300
+A-02-05-1-2,v1-534-61318-114049--46-152404,152404,Hazelnut,Nala Tunic,Pink,All Size,Tunic,1,199000,,cons,normal,300
+A-02-05-1-2,v1-656-61484-114239--85-152658,152658,HIJUP ESSENTIALS,Attaf Top,Dark Grey-Khaki,XXL,Menswear,2,229000,,cons,normal,100
+A-02-05-1-2,v1-219-62531-116277--46-155324,155324,Abame,Taffy Midi Dress 2,Tosca,All Size,Long Dress,4,385000,0.4,cons,normal,300
+A-02-05-1-3,v1-498-56835-106583--46-143281,143281,Zahra Signature,Kulot Cotton Panama,Black,All Size,Palazzo,9,190000,0.4,cons,normal,300
+A-02-05-1-3,v1-247-59061-112912--46-150952,150952,Malaika,Kloki Skirt,Emerald,All Size,Skirt,7,165000,0,cons,normal,300
+A-02-05-1-4,v1-273-56258-105421--46-141842,141842,Bellissima,Safa Pleats Skirt,Sand,All Size,Skirt,5,245000,0.4,cons,normal,300
+A-02-05-1-4,v1-534-61317-114045--46-152400,152400,Hazelnut,Nazim Tunic,Maroon,All Size,Tunic,9,225000,,cons,normal,300
+A-02-05-2-1,v1-169-60289-112226--46-150037,150037,Covering Story,Nadine  Dress,Black (B),All Size,Long Dress,7,310000,0.4,cons,normal,300
+A-02-05-2-1,v1-656-61482-114237--82-152652,152652,HIJUP ESSENTIALS,Yushfa Midi Dress,Dusty Pink,XL,Kids,3,229000,,cons,normal,100
+A-02-05-2-1,v1-656-61484-114239--85-152658,152658,HIJUP ESSENTIALS,Attaf Top,Dark Grey-Khaki,XXL,Menswear,3,229000,,cons,normal,100
+A-02-05-2-1,v1-722-61892-114971--68-153601,153601,Ghaisani Hijab,Hulia Dress for HIJUP,Mocca,L/XL,Long Dress,6,348000,0,cons,normal,300
+A-02-05-2-2,v1-273-56258-105421--46-141842,141842,Bellissima,Safa Pleats Skirt,Sand,All Size,Skirt,7,245000,0.4,cons,normal,300
+A-02-05-2-2,v1-169-60288-112221--46-150032,150032,Covering Story,Alexai Dress,Baby Pink (C),All Size,Long Dress,3,375000,0.4,cons,normal,300
+A-02-05-2-2,v1-169-60289-112224--46-150035,150035,Covering Story,Nadine  Dress,Ivory (D),All Size,Long Dress,4,310000,0.4,cons,normal,300
+A-02-05-2-2,v1-273-61345-114079--64-152461,152461,Bellissima,Grasia Dress 2,Soft Tosca,L,Long Dress,1,349000,0.4,cons,normal,300
+A-02-05-2-2,v1-656-61482-114237--82-152652,152652,HIJUP ESSENTIALS,Yushfa Midi Dress,Dusty Pink,XL,Kids,3,229000,,cons,normal,100
+A-02-05-2-3,v1-498-33295-58071--46-76129,76129,Zahra Signature,Denim Palazo Kelly,Dark Blue,All Size,Palazzo,5,190000,0.4,cons,normal,300
+A-02-05-2-3,v1-273-61342-114076--82-152451,152451,Bellissima,Gracia Dress 5,Dusty Pink,XL,Long Dress,4,349000,0.4,cons,normal,300
+A-02-05-2-3,v1-713-61829-114888--64-153485,153485,Laviolet Clothing,Sabila Dress,Black-Evergreen,L,Long Dress,1,335000,,cons,normal,300
+A-02-05-2-3,v1-219-62531-116277--46-155324,155324,Abame,Taffy Midi Dress 2,Tosca,All Size,Long Dress,4,385000,0.4,cons,normal,300
+A-02-05-2-3,v1-219-60758-116281--46-155328,155328,Abame,Flo Tunic,Grey,All Size,Tunic,3,385000,0.4,cons,normal,300
+A-02-05-2-4,v1-273-56258-105421--46-141842,141842,Bellissima,Safa Pleats Skirt,Sand,All Size,Skirt,5,245000,0.4,cons,normal,300
+A-02-05-2-4,v1-79-60341-112338--46-150159,150159,Radwah,Adila Tunik Tutu,Mocca,All Size,Tunic,1,228000,0.2,cons,normal,300
+A-02-05-2-4,v1-247-60632-112908--46-150948,150948,Malaika,Plaid Midi Shirt,Red,All Size,Shirt,1,155000,0,cons,normal,300
+A-02-05-2-4,v1-534-61317-114044--46-152399,152399,Hazelnut,Nazim Tunic,Pink,All Size,Tunic,6,225000,,cons,normal,300
+A-02-05-3-1,v1-169-60288-112222--46-150033,150033,Covering Story,Alexai Dress,Light Brown (B),All Size,Long Dress,4,375000,0.4,cons,normal,300
+A-02-05-3-1,v1-219-60368-112403--46-150251,150251,Abame,Kawaii Linen Outer,Brown,All Size,Cardigan,4,415000,0.4,cons,normal,300
+A-02-05-3-1,v1-273-60617-112886--70-150903,150903,Bellissima,Adamma Dress,Black,M,Long Dress,1,357000,0.4,cons,normal,300
+A-02-05-3-1,v1-273-61345-114079--82-152460,152460,Bellissima,Grasia Dress 2,Soft Tosca,XL,Long Dress,1,349000,0.4,cons,normal,300
+A-02-05-3-1,v1-67-61471-114217--46-152622,152622,Nadjani,New Marizta Dress,Grey,All Size,Tunic,4,495000,,beli-putus,normal,300
+A-02-05-3-1,v1-656-61484-114239--85-152658,152658,HIJUP ESSENTIALS,Attaf Top,Dark Grey-Khaki,XXL,Menswear,3,229000,,cons,normal,100
+A-02-05-3-2,v1-169-59348-110537--46-147938,147938,Covering Story,Keana Dress,Cream (D),All Size,Long Dress,1,325000,0.4,cons,normal,300
+A-02-05-3-2,v1-169-59348-110539--46-147940,147940,Covering Story,Keana Dress,Green (B),All Size,Long Dress,1,325000,0.4,cons,normal,300
+A-02-05-3-2,v1-169-59349-110541--46-147942,147942,Covering Story,Friska Dress,Navy (C),All Size,Long Dress,1,310000,0.4,cons,normal,300
+A-02-05-3-2,v1-247-60630-112903--46-150943,150943,Malaika,Cathleen Tunik,Magenta,All Size,Tunic,2,165000,0,cons,normal,300
+A-02-05-3-2,v1-656-61482-114237--76-152655,152655,HIJUP ESSENTIALS,Yushfa Midi Dress,Dusty Pink,S,Kids,1,229000,,cons,normal,100
+A-02-05-3-2,v1-219-62532-116278--46-155325,155325,Abame,Tyna Dress,Pink,All Size,Long Dress,7,395000,0.4,cons,normal,300
+A-02-05-3-3,v1-219-54744-102097--46-137457,137457,Abame,Lissy Shirt,White,All Size,Shirt,4,289000,0.4,cons,normal,300
+A-02-05-3-3,v1-426-54868-112290--64-150102,150102,LAV Indonesia,Basic Dress #01,Lavender,L,Long Dress,2,299000,0.4,cons,normal,300
+A-02-05-3-3,v1-219-60761-113093--46-151148,151148,Abame,Rima Tunic Stripe,Peach,All Size,Tunic,2,350000,0.4,cons,normal,300
+A-02-05-3-3,v1-273-61343-114077--64-152455,152455,Bellissima,Grasia Dress 4,Black,L,Long Dress,1,349000,0.4,cons,normal,300
+A-02-05-3-3,v1-713-61828-114887--70-153484,153484,Laviolet Clothing,Wahida Dress,Navy-White,M,Long Dress,1,349000,,cons,normal,300
+A-02-05-3-3,v1-713-61828-114887--64-153854,153854,Laviolet Clothing,Wahida Dress,Navy-White,L,Long Dress,1,349000,,cons,normal,300
+A-02-05-3-3,v1-219-60547-116276--46-155323,155323,Abame,Basic Leo Top,Black,All Size,Blouse,12,289000,0.4,cons,normal,300
+A-02-05-3-4,v1-247-60630-112903--46-150943,150943,Malaika,Cathleen Tunik,Magenta,All Size,Tunic,3,165000,0,cons,normal,300
+A-02-05-3-4,v1-219-54744-113095--46-151150,151150,Abame,Lissy Shirt,Navy,All Size,Shirt,4,289000,0.4,cons,normal,300
+A-02-05-3-4,v1-219-62533-116279--46-155326,155326,Abame,Shery Blouse,Yellow,All Size,Blouse,3,339000,0.4,cons,normal,300
+A-02-05-3-4,v1-219-62534-116280--46-155327,155327,Abame,Melda Tunic,Grey,All Size,Tunic,3,299000,0.4,cons,normal,300
+A-02-06-1-1,v1-455-61537-114323--70-152771,152771,SHOPALIA,Mahila Dress,Grey-Black,M,Long Dress,2,429000,0.4,cons,normal,300
+A-02-06-1-1,v1-455-61537-114324--64-152772,152772,SHOPALIA,Mahila Dress,Brown-Black,L,Long Dress,1,429000,0.4,cons,normal,300
+A-02-06-1-1,v1-245-62045-115263--46-154014,154014,Aumone,Centre Shirt,Olive,All Size,Shirt,9,285000,0.4,cons,normal,300
+A-02-06-1-1,v1-245-62045-115264--46-154015,154015,Aumone,Centre Shirt,Navy,All Size,Shirt,9,285000,0.4,cons,normal,300
+A-02-06-1-1,v1-245-62046-115265--46-154016,154016,Aumone,Boxx Sleeve Linen,Yellow Grey,All Size,Tunic,9,335000,0.4,cons,normal,300
+A-02-06-1-1,v1-245-62030-115266--46-154017,154017,Aumone,Bran Dress,Black 2,All Size,Long Dress,11,365000,0.4,cons,normal,300
+A-02-06-1-2,v1-175-61293-113999--46-152351,152351,Tatuis,Shiva 114 Blue,Blue,All Size,Mukena,15,325000,0.2,cons,normal,800
+A-02-06-1-3,v1-175-61293-113999--46-152351,152351,Tatuis,Shiva 114 Blue,Blue,All Size,Mukena,6,325000,0.2,cons,normal,800
+A-02-06-1-3,v1-79-62048-115270--46-154021,154021,Radwah,Shena Tunik Motif Flories,Blue,All Size,Tunic,6,275000,0.2,cons,normal,300
+A-02-06-1-3,v1-79-62048-115271--46-154022,154022,Radwah,Shena Tunik Motif Flories,Mustard,All Size,Tunic,5,275000,0.2,cons,normal,300
+A-02-06-1-4,v1-722-61892-114971--80-153602,153602,Ghaisani Hijab,Hulia Dress for HIJUP,Mocca,S/M,Long Dress,13,348000,0,cons,normal,300
+A-02-06-2-1,v1-219-61253-113923--46-152259,152259,Abame,Leri Tunic,Peach,All Size,Tunic,1,325000,0.4,cons,normal,300
+A-02-06-2-1,v1-79-62019-115216--46-153957,153957,Radwah,Nazma Dress,Terracota,All Size,Long Dress,8,365000,0.2,cons,normal,300
+A-02-06-2-2,v1-455-61270-113942--64-152280,152280,SHOPALIA,Maiza Tulle Dress,Blue Purple,L,Long Dress,2,405000,0.4,cons,normal,300
+A-02-06-2-2,v1-783-62380-115978--70-155003,155003,Ghaisani Hijab Official,Aisya Dress,Black/Red,M,Long Dress,4,317000,0,cons,normal,300
+A-02-06-2-3,v1-67-61471-114216--46-152621,152621,Nadjani,New Marizta Dress,Baby Blue,All Size,Tunic,41,495000,,beli-putus,normal,300
+A-02-06-2-4,v1-67-61473-114224--46-152629,152629,Nadjani,New Eira Dress,Army,All Size,Tunic,13,495000,,beli-putus,normal,300
+A-02-06-2-4,v1-783-62380-115978--70-155003,155003,Ghaisani Hijab Official,Aisya Dress,Black/Red,M,Long Dress,7,317000,0,cons,normal,300
+A-02-06-3-1,423-26767-45992-0-46-61342,61342,HIJUP offline,Insana Pouch,Black Orange,All Size,Pouch,1,150000,,cons,normal,100
+A-02-06-3-1,423-26768-45993-660620-46-61343,61343,HIJUP offline,Mini Pouch Lurik Purple,Purple,All Size,Pouch,1,50000,,cons,normal,100
+A-02-06-3-1,423-26897-46135-114407-46-61500,61500,HIJUP offline,Niagar Diamant,Purple,All Size,Sandals,1,188000,,cons,normal,100
+A-02-06-3-1,423-26903-46142-831312-46-61507,61507,HIJUP offline,Milos Necklace,Mint,All Size,Necklace,2,288000,,cons,normal,100
+A-02-06-3-1,423-26904-46143-32139-46-61508,61508,HIJUP offline,Loire Headpiece,Silver,All Size,Headpiece,1,438000,,cons,normal,100
+A-02-06-3-1,423-26905-46144-560700-46-61509,61509,HIJUP offline,Bella Necklace,Green,All Size,,1,85000,,cons,normal,100
+A-02-06-3-1,423-26906-46145-597603-46-61510,61510,HIJUP offline,NK.05 Magenta,Magenta,All Size,Platform,1,225000,,cons,normal,100
+A-02-06-3-1,423-26907-46146-379625-46-61511,61511,HIJUP offline,NK.01 Blue,Blue,All Size,,1,150000,,cons,normal,100
+A-02-06-3-1,423-26908-46147-624331-46-61512,61512,HIJUP offline,NK.03 Velvet,Velvet Blue,All Size,,1,150000,,cons,normal,100
+A-02-06-3-1,423-26909-46148-560700-46-61513,61513,HIJUP offline,NK.06 Green,Green,All Size,,2,225000,,cons,normal,100
+A-02-06-3-1,423-26912-46151-0-46-61516,61516,HIJUP offline,Umaya Headpiece,Black,All Size,Headpiece,3,100000,,cons,normal,100
+A-02-06-3-1,423-26913-46152-1043259-46-61517,61517,HIJUP offline,Fatimah,Gold,All Size,,2,80000,,cons,normal,100
+A-02-06-3-1,423-27190-46484-1048575-46-61883,61883,HIJUP offline,Pearl Necklace,White,All Size,Necklace,1,150000,,cons,normal,100
+A-02-06-3-1,423-27509-46938-0-46-62366,62366,HIJUP offline,Ulos Black Mini Pouch,black,All Size,Praying Beads,1,50000,,cons,normal,100
+A-02-06-3-1,423-27648-47111-1048575-46-62565,62565,HIJUP offline,Clara Hand,White,All Size,Tunic,1,150000,,cons,normal,100
+A-02-06-3-1,423-27862-47400-611656-46-62867,62867,HIJUP offline,Junko Wristlet in Coffe Matte,Coffe Matte,All Size,Shoulder Bag,1,100000,,cons,normal,100
+A-02-06-3-1,423-27884-47427-597603-46-62896,62896,HIJUP offline,Mini Pouch Lurik Fuschia,Fuschia,All Size,Pouch,1,50000,,cons,normal,100
+A-02-06-3-1,423-27902-47450-560700-46-62922,62922,HIJUP offline,Mini Pouch Lurik Green,Green,All Size,Pouch,1,50000,,cons,normal,100
+A-02-06-3-1,423-27905-47455-1038556-46-62929,62929,HIJUP offline,Miss Pearl,Silver-BW,All Size,Praying Beads,1,310000,,cons,normal,100
+A-02-06-3-1,423-27948-47503-77224-46-62995,62995,HIJUP offline,Siesta Necklace,Dusty Purple,All Size,Praying Beads,1,328000,,cons,normal,100
+A-02-06-3-1,423-28024-47598-1029965-46-63118,63118,HIJUP offline,Bow Praying Beads,Orange,All Size,Praying Beads,1,100000,,cons,normal,100
+A-02-06-3-1,423-28027-47601-114407-46-63121,63121,HIJUP offline,Trisha Necklace,Multicolor,All Size,Necklace,1,45000,,cons,normal,100
+A-02-06-3-1,423-28032-47606-1046980-46-63126,63126,HIJUP offline,Rose Brooch,Cream,All Size,Brooch,5,45000,,cons,normal,100
+A-02-06-3-1,423-28039-47613-831312-46-63135,63135,HIJUP offline,Tassel Headband,Green,All Size,Square Hijab,1,65000,,cons,normal,100
+A-02-06-3-1,423-28042-47616-1037647-46-63138,63138,HIJUP offline,Cleo Hand Jewelry,Gold,All Size,Tunic,1,100000,,cons,normal,100
+A-02-06-3-1,423-28043-47617-1048575-46-63139,63139,HIJUP offline,Parvati,White,All Size,Praying Beads,1,100000,,cons,normal,100
+A-02-06-3-1,423-28044-47618-760731-46-63140,63140,HIJUP offline,Zhubay,Silver Green,All Size,Tunic,2,188000,,cons,normal,100
+A-02-06-3-1,423-28045-47619-1048575-46-63141,63141,HIJUP offline,Monochrome Leaf Praying Beads,White,All Size,Praying Beads,1,120000,,cons,normal,100
+A-02-06-3-1,423-28046-47620-0-46-63142,63142,HIJUP offline,Ethnic Stone Necklace,Black,All Size,Praying Beads,1,100000,,cons,normal,100
+A-02-06-3-1,423-28050-47624-465948-46-63146,63146,HIJUP offline,Mini Pouch Mandar,Black Red,All Size,Praying Beads,1,100000,,cons,normal,100
+A-02-06-3-1,423-28107-47687-1044854-46-63213,63213,HIJUP offline,Rainbow Tassel Praying Beads,Yellow,All Size,Square Hijab,1,100000,,cons,normal,100
+A-02-06-3-1,423-28108-47688-1048575-46-63214,63214,HIJUP offline,B.085 Ayame Brooch,White,All Size,Tunic,1,85000,,cons,normal,100
+A-02-06-3-1,423-28151-47748-1035730-46-63299,63299,HIJUP offline,Cleo Necklace,Peach,All Size,Praying Beads,1,135000,,cons,normal,100
+A-02-06-3-1,423-28383-48078-1048575-46-63767,63767,HIJUP offline,Nous Necklace,White,All Size,Praying Beads,1,328000,,cons,normal,100
+A-02-06-3-1,423-28384-48079-42158-46-63768,63768,HIJUP offline,Coco Necklace,Silver,All Size,Necklace,2,428000,,cons,normal,100
+A-02-06-3-1,423-28394-48089-465948-46-63778,63778,HIJUP offline,NK.04 Red,Red,All Size,Heels,1,150000,,cons,normal,100
+A-02-06-3-1,423-28395-48090-624331-46-63779,63779,HIJUP offline,NK.07 Blue,Blue,All Size,Heels,1,225000,,cons,normal,100
+A-02-06-3-1,v1-423-30946-53431--46-70339,70339,HIJUP offline,Jati Robotic Per Necklace / Role Model,Brown,All Size,Necklace,1,160000,,cons,normal,100
+A-02-06-3-1,v1-423-31375-54330--46-71436,71436,HIJUP offline,Lille Headpiece,Red,All Size,Headpiece,1,388000,,cons,normal,100
+A-02-06-3-1,v1-423-48979-90823--46-120871,120871,HIJUP offline,Nantes Necklace/HOJ,Silver,All Size,,1,328000,,cons,normal,100
+A-02-06-3-1,v1-423-49079-90974--46-121101,121101,HIJUP offline,Parvati Headpiece/Role Model,White,All Size,,1,100000,,cons,normal,100
+A-02-06-3-1,v1-423-49080-90975--46-121102,121102,HIJUP offline,Mimi Necklase White Peach/Popyt,White peach,All Size,,1,65000,,cons,normal,100
+A-02-06-3-1,v1-423-49081-90976--46-121103,121103,HIJUP offline,NK.05 Magenta/Antyk Butyk,Magenta,All Size,,1,225000,,cons,normal,100
+A-02-06-3-1,v1-79-62015-115205--46-153946,153946,Radwah,Nabila Top Basic,Broken White,All Size,Blouse,4,225000,0.2,cons,normal,300
+A-02-06-3-1,v1-79-62015-115206--46-153947,153947,Radwah,Nabila Top Basic,Nude,All Size,Blouse,9,225000,0.2,cons,normal,300
+A-02-06-3-1,v1-245-62043-115261--46-154012,154012,Aumone,Wrap Sweater,Lavender,All Size,Sweater,7,285000,0.4,cons,normal,300
+A-02-06-3-2,v1-67-61570-114392--46-152848,152848,Nadjani,New Caera Dress for HIJUP,Green Flower,All Size,Long Dress,1,495000,,beli-putus,normal,300
+A-02-06-3-2,v1-783-62380-115978--64-155004,155004,Ghaisani Hijab Official,Aisya Dress,Black/Red,L,Long Dress,11,317000,0,cons,normal,300
+A-02-06-3-3,v1-455-61456-114194--64-152583,152583,SHOPALIA,Sayyeda Beads Dress,Mocca,L,Long Dress,2,395000,0.4,cons,normal,300
+A-02-06-3-3,v1-455-61456-114195--64-152585,152585,SHOPALIA,Sayyeda Beads Dress,Dusty Pink,L,Long Dress,1,395000,0.4,cons,normal,300
+A-02-06-3-3,v1-783-62380-115978--64-155004,155004,Ghaisani Hijab Official,Aisya Dress,Black/Red,L,Long Dress,6,317000,0,cons,normal,300
+A-02-06-3-4,v1-455-61533-114313--64-152759,152759,SHOPALIA,Anya Dream Dress,Black-Motif Paisley,L,Long Dress,2,385000,0.4,cons,normal,300
+A-02-06-3-4,v1-67-61570-114394--46-152850,152850,Nadjani,New Caera Dress for HIJUP,Brown,All Size,Long Dress,9,495000,,beli-putus,normal,300
+A-02-06-3-4,v1-783-62380-115978--70-155003,155003,Ghaisani Hijab Official,Aisya Dress,Black/Red,M,Long Dress,3,317000,0,cons,normal,300
+A-02-07-1-1,v1-247-60632-112909--46-150949,150949,Malaika,Plaid Midi Shirt,Maroon,All Size,Shirt,3,155000,0,cons,normal,300
+A-02-07-1-1,v1-273-61343-114077--82-152454,152454,Bellissima,Grasia Dress 4,Black,XL,Long Dress,1,349000,0.4,cons,normal,300
+A-02-07-1-1,v1-656-61482-114237--76-152655,152655,HIJUP ESSENTIALS,Yushfa Midi Dress,Dusty Pink,S,Kids,3,229000,,cons,normal,100
+A-02-07-1-1,v1-114-62724-116749--82-155928,155928,Dian Pelangi,Carolla Dress Rayon Batik Abstrak,Brown,XL,Long Dress,1,467500,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62728-116757--64-155936,155936,Dian Pelangi,Ina Tunik Rayon Moscrepe Abstrak,Brown,L,Tunic,1,397000,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62729-116761--64-155940,155940,Dian Pelangi,Laya Tunik Santung Batik Abstrak,Navy,L,Tunic,1,382500,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62729-116762--64-155941,155941,Dian Pelangi,Laya Tunik Santung Batik Abstrak,Brown,L,Tunic,1,382500,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62730-116764--70-155943,155943,Dian Pelangi,Zahna Tunik Santung Batik Abstrak,Army,M,Tunic,1,440000,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62734-116771--64-155951,155951,Dian Pelangi,Alice Tunic Tissue Abstrak,Blue Grey,L,Tunic,1,666000,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62735-116772--70-155953,155953,Dian Pelangi,Miriam Dress Ceruti Abstrak,Gold,M,Long Dress,1,680000,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62735-116773--64-155954,155954,Dian Pelangi,Miriam Dress Ceruti Abstrak,Soft Brown,L,Long Dress,1,680000,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62736-116775--64-155956,155956,Dian Pelangi,Kawma Dress Tissue Abstrak,Cream,L,Long Dress,1,652000,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62737-116777--64-155958,155958,Dian Pelangi,Gazini Dress Ceruti Abstrak,Mocca,L,Long Dress,1,695000,0,beli-putus,normal,300
+A-02-07-1-1,v1-114-62737-116778--82-155959,155959,Dian Pelangi,Gazini Dress Ceruti Abstrak,Grey,XL,Long Dress,1,695000,0,beli-putus,normal,300
+A-02-07-1-2,v1-273-61342-114076--64-152452,152452,Bellissima,Gracia Dress 5,Dusty Pink,L,Long Dress,3,349000,0.4,cons,normal,300
+A-02-07-1-2,v1-656-61482-114237--76-152655,152655,HIJUP ESSENTIALS,Yushfa Midi Dress,Dusty Pink,S,Kids,5,229000,,cons,normal,100
+A-02-07-1-2,v1-175-62853-117022--46-156252,156252,Tatuis,Tiara 426 Daimah Rasiyah Maxi Dusty Pink,Dusty Pink,All Size,Mukena,12,235000,0.2,cons,normal,800
+A-02-07-1-3,v1-247-59061-112914--46-150954,150954,Malaika,Kloki Skirt,Denim Blue,All Size,Skirt,5,165000,0,cons,normal,300
+A-02-07-1-3,v1-778-62023-115222--46-153963,153963,Jenna & Kaia,New Anela Dress for HIJUP,Mocca,All Size,Long Dress,3,579000,0,beli-putus,normal,300
+A-02-07-1-4,v1-247-60009-112901--46-150941,150941,Malaika,Evelyne Tunik,Stripe Dusty Pink,All Size,Tunic,5,165000,0,cons,normal,300
+A-02-07-1-4,v1-175-62855-117024--46-156254,156254,Tatuis,Tiara 426 Daimah Rasiyah Maxi Dusty Purple,Dusty Purple,All Size,Mukena,12,235000,0.2,cons,normal,800
+A-02-07-2-1,v1-247-60632-112908--46-150948,150948,Malaika,Plaid Midi Shirt,Red,All Size,Shirt,3,155000,0,cons,normal,300
+A-02-07-2-1,v1-656-61482-114237--82-152652,152652,HIJUP ESSENTIALS,Yushfa Midi Dress,Dusty Pink,XL,Kids,3,229000,,cons,normal,100
+A-02-07-2-1,v1-336-61779-114776--80-153360,153360,Belyanza,Arula Dress,Maroon,S/M,Long Dress,1,477000,0.2,cons,normal,300
+A-02-07-2-1,v1-534-61800-114830--46-153420,153420,Hazelnut,Nina Pearl Dress,Army,All Size,Long Dress,1,399000,,cons,normal,300
+A-02-07-2-1,v1-704-61838-114900--46-153497,153497,Karkhaa Indonesia,Button 3WR,Black White Maroon,All Size,Shirt,1,483000,,cons,normal,300
+A-02-07-2-1,v1-704-61842-114905--46-153502,153502,Karkhaa Indonesia,Aisyah Batik,Black Batik,All Size,Blouse,1,639000,,cons,normal,300
+A-02-07-2-1,v1-704-61843-114906--46-153503,153503,Karkhaa Indonesia,Aisyah Embos,Black Cream Maroon,All Size,Blouse,1,575000,,cons,normal,300
+A-02-07-2-1,v1-227-61854-114917--46-153523,153523,Morning Sunshine,Vaya Dress,Pink,All Size,Long Dress,1,375000,,cons,normal,300
+A-02-07-2-1,v1-243-61857-114921--46-153527,153527,Kullu,Adia Middi Outer,Blue Flower,All Size,Cardigan,1,325000,0,cons,normal,300
+A-02-07-2-1,v1-243-61858-114922--46-153528,153528,Kullu,Adia Kimono,Pink Flower,All Size,Cardigan,1,275000,0,cons,normal,300
+A-02-07-2-1,v1-243-61858-114923--46-153529,153529,Kullu,Adia Kimono,White Flower,All Size,Cardigan,1,275000,0,cons,normal,300
+A-02-07-2-1,v1-243-61859-114927--46-153533,153533,Kullu,Sanna Set,Army Panel,All Size,Long Dress,1,450000,0,cons,normal,300
+A-02-07-2-1,v1-243-61862-114930--46-153536,153536,Kullu,Luana Abaya,Mustard List Green,All Size,Long Dress,1,425000,0,cons,normal,300
+A-02-07-2-1,v1-243-61863-114931--46-153537,153537,Kullu,Lavani Abaya,Army Panel,All Size,Long Dress,1,425000,0,cons,normal,300
+A-02-07-2-1,v1-169-62088-115347--46-154178,154178,Covering Story,Kayana Dress,Navy (C),All Size,Long Dress,1,299000,0.4,cons,normal,300
+A-02-07-2-2,v1-67-61471-114217--46-152622,152622,Nadjani,New Marizta Dress,Grey,All Size,Tunic,6,495000,,beli-putus,normal,300
+A-02-07-2-2,v1-778-62023-115222--46-153963,153963,Jenna & Kaia,New Anela Dress for HIJUP,Mocca,All Size,Long Dress,6,579000,0,beli-putus,normal,300
+A-02-07-2-3,v1-247-60631-112906--46-150946,150946,Malaika,Daun Dress 4,Green Zig-Zag,All Size,Long Dress,7,195000,0,cons,normal,300
+A-02-07-2-3,v1-656-61482-114237--76-152655,152655,HIJUP ESSENTIALS,Yushfa Midi Dress,Dusty Pink,S,Kids,3,229000,,cons,normal,100
+A-02-07-2-3,v1-778-62023-115222--46-153963,153963,Jenna & Kaia,New Anela Dress for HIJUP,Mocca,All Size,Long Dress,5,579000,0,beli-putus,normal,300
+A-02-07-2-4,v1-778-62023-115222--46-153963,153963,Jenna & Kaia,New Anela Dress for HIJUP,Mocca,All Size,Long Dress,7,579000,0,beli-putus,normal,300
+A-02-07-3-1,v1-247-60632-112907--46-150947,150947,Malaika,Plaid Midi Shirt,Rainbow Chess,All Size,Shirt,1,155000,0,cons,normal,300
+A-02-07-3-1,v1-245-62042-115260--46-154011,154011,Aumone,Back Tunic,Lavender,All Size,Tunic,8,295000,0.4,cons,normal,300
+A-02-07-3-2,v1-247-60630-112902--46-150942,150942,Malaika,Cathleen Tunik,Blue Batik,All Size,Tunic,3,165000,0,cons,normal,300
+A-02-07-3-2,v1-67-61471-114217--46-152622,152622,Nadjani,New Marizta Dress,Grey,All Size,Tunic,8,495000,,beli-putus,normal,300
+A-02-07-3-3,v1-247-59061-110024--46-147277,147277,Malaika,Kloki Skirt,Navy,All Size,Skirt,2,165000,0,cons,normal,300
+A-02-07-3-3,v1-778-62023-115222--46-153963,153963,Jenna & Kaia,New Anela Dress for HIJUP,Mocca,All Size,Long Dress,7,579000,0,beli-putus,normal,300
+A-02-07-3-4,v1-247-59061-112913--46-150953,150953,Malaika,Kloki Skirt,Dark Grey,All Size,Skirt,4,165000,0,cons,normal,300
+A-02-07-3-4,v1-175-62857-117026--46-156256,156256,Tatuis,Tiara 422 Atika Fithriya Peach,Peach,All Size,Mukena,12,315000,0.2,cons,normal,800
+A-02-08-1-1,v1-722-61573-114404--68-153972,153972,Ghaisani Hijab,Ayesha Dress for HIJUP,Golden Tan,L/XL,Long Dress,11,338000,0,cons,normal,300
+A-02-08-1-2,v1-273-56258-105421--46-141842,141842,Bellissima,Safa Pleats Skirt,Sand,All Size,Skirt,18,245000,0.4,cons,normal,300
+A-02-08-1-3,v1-273-56258-105421--46-141842,141842,Bellissima,Safa Pleats Skirt,Sand,All Size,Skirt,10,245000,0.4,cons,normal,300
+A-02-08-1-3,v1-429-60497-112649--82-150555,150555,Naia,Safea Outer,Blue Motif,XL,Cardigan,2,565000,,cons,normal,300
+A-02-08-1-3,v1-429-60497-112649--64-150556,150556,Naia,Safea Outer,Blue Motif,L,Cardigan,2,565000,,cons,normal,300
+A-02-08-1-3,v1-429-60497-112649--70-150557,150557,Naia,Safea Outer,Blue Motif,M,Cardigan,1,565000,,cons,normal,300
+A-02-08-1-3,v1-429-60497-112649--76-150558,150558,Naia,Safea Outer,Blue Motif,S,Cardigan,2,565000,,cons,normal,300
+A-02-08-1-3,v1-175-60893-113346--46-151448,151448,Tatuis,Tiara 398 Peach,Peach,All Size,Mukena,11,295000,0.2,cons,normal,800
+A-02-08-1-3,v1-429-61462-114203--64-152605,152605,Naia,Tya Dress,White Motif,L,Long Dress,1,790000,,cons,normal,300
+A-02-08-1-3,v1-429-61462-114203--76-152607,152607,Naia,Tya Dress,White Motif,S,Long Dress,1,790000,,cons,normal,300
+A-02-08-1-3,v1-429-62001-115152--46-153880,153880,Naia,Reiva 4 Outer,Cream Motif,All Size,Long Dress,2,350000,,cons,normal,300
+A-02-08-2-1,v1-67-61474-114228--46-152633,152633,Nadjani,New Hazel Dress,Blue,All Size,Tunic,30,495000,,beli-putus,normal,300
+A-02-08-2-2,v1-498-60845-113265--46-151338,151338,Zahra Signature,Kayla Blouse,Mustard,All Size,Blouse,6,269000,0.4,cons,normal,300
+A-02-08-2-2,v1-429-61462-114203--70-152606,152606,Naia,Tya Dress,White Motif,M,Long Dress,1,790000,,cons,normal,300
+A-02-08-2-2,v1-429-61462-114203--76-152607,152607,Naia,Tya Dress,White Motif,S,Long Dress,2,790000,,cons,normal,300
+A-02-08-2-2,v1-429-61462-114203--84-152608,152608,Naia,Tya Dress,White Motif,XS,Long Dress,3,790000,,cons,normal,300
+A-02-08-2-2,v1-498-60845-116213--46-155259,155259,Zahra Signature,Kayla Blouse,Navy,All Size,Blouse,5,269000,0.4,cons,normal,300
+A-02-08-2-2,v1-498-60845-116214--46-155260,155260,Zahra Signature,Kayla Blouse,Purple,All Size,Blouse,5,269000,0.4,cons,normal,300
+A-02-08-2-3,v1-67-61571-114978--46-153612,153612,Nadjani,New Shafa Dress for HIJUP,White,All Size,Long Dress,17,495000,,beli-putus,normal,300
+A-02-08-2-4,v1-175-60893-113346--46-151448,151448,Tatuis,Tiara 398 Peach,Peach,All Size,Mukena,7,295000,0.2,cons,normal,800
+A-02-08-2-4,v1-273-61343-114077--82-152454,152454,Bellissima,Grasia Dress 4,Black,XL,Long Dress,1,349000,0.4,cons,normal,300
+A-02-08-2-4,v1-722-61573-114404--68-153972,153972,Ghaisani Hijab,Ayesha Dress for HIJUP,Golden Tan,L/XL,Long Dress,6,338000,0,cons,normal,300
+A-02-08-3-1,v1-67-61570-114394--46-152850,152850,Nadjani,New Caera Dress for HIJUP,Brown,All Size,Long Dress,17,495000,,beli-putus,normal,300
+A-02-08-3-2,v1-722-61573-114404--76-152860,152860,Ghaisani Hijab,Ayesha Dress for HIJUP,Golden Tan,S/M,Long Dress,12,338000,0,cons,normal,300
+A-02-08-3-2,v1-722-61573-114404--68-153972,153972,Ghaisani Hijab,Ayesha Dress for HIJUP,Golden Tan,L/XL,Long Dress,1,338000,0,cons,normal,300
+A-02-08-3-3,v1-778-62023-115222--46-153963,153963,Jenna & Kaia,New Anela Dress for HIJUP,Mocca,All Size,Long Dress,7,579000,0,beli-putus,normal,300
+A-02-08-3-4,v1-722-61573-114404--76-152860,152860,Ghaisani Hijab,Ayesha Dress for HIJUP,Golden Tan,S/M,Long Dress,6,338000,0,cons,normal,300
+A-02-08-3-4,v1-722-61573-114404--68-153972,153972,Ghaisani Hijab,Ayesha Dress for HIJUP,Golden Tan,L/XL,Long Dress,6,338000,0,cons,normal,300
+A-03-01-1-1,v1-128-61192-113816--46-152116,152116,Magic Spell,MSB 525-Dhiba Basic Prayer Set,Black,All Size,Mukena,1,299000,0,cons,normal,800
+A-03-01-1-1,v1-722-61891-114966--76-153584,153584,Ghaisani Hijab,Shakila Dress for HIJUP,Emerald,S,Long Dress,8,348000,0,cons,normal,300
+A-03-01-1-2,v1-722-61891-114966--76-153584,153584,Ghaisani Hijab,Shakila Dress for HIJUP,Emerald,S,Long Dress,7,348000,0,cons,normal,300
+A-03-01-1-3,v1-498-53693-99891--46-134488,134488,Zahra Signature,Blazer Denim Missa,Dark Blue,All Size,Blazer,2,329000,0.4,cons,normal,300
+A-03-01-1-3,v1-498-54419-101419--64-136572,136572,Zahra Signature,Kulot Rami Basic,Navy,L,Palazzo,8,190000,0.4,cons,normal,300
+A-03-01-1-3,v1-498-56832-113031--46-151074,151074,Zahra Signature,Long Skirt Denim Flare w/ Button,Light Blue,All Size,Skirt,5,269000,0.4,cons,normal,300
+A-03-01-1-3,v1-623-62573-116366--189-155479,155479,Bundling Promo ,Luana Top + Manset Halter Neck,Mocca - Navy,All Size-L,Manset,3,520071,0,beli-putus,normal,300
+A-03-01-1-4,v1-175-61300-114006--46-152358,152358,Tatuis,Tiara 398 Blue,Blue,All Size,Mukena,8,295000,0.2,cons,normal,800
+A-03-01-2-1,v1-324-61203-113834--46-152134,152134,Kayva,Aletha Sporty Dress,Black Red,All Size,Long Dress,5,224000,0.3,cons,normal,300
+A-03-01-2-1,v1-722-61891-114966--85-153580,153580,Ghaisani Hijab,Shakila Dress for HIJUP,Emerald,XXL,Long Dress,3,348000,0,cons,normal,300
+A-03-01-2-2,v1-673-54484-101586--46-136754,136754,ESWE,Fega Dress,Milk Brown,All Size,Long Dress,1,346000,0,cons,normal,300
+A-03-01-2-2,v1-673-55685-104053--46-140090,140090,ESWE,Khalidah Dress,Navy,All Size,Long Dress,1,403000,0,cons,normal,300
+A-03-01-2-2,v1-722-61891-114966--76-153584,153584,Ghaisani Hijab,Shakila Dress for HIJUP,Emerald,S,Long Dress,4,348000,0,cons,normal,300
+A-03-01-2-3,v1-67-61472-114221--46-152626,152626,Nadjani,New Abelyn Dress,Army,All Size,Tunic,2,495000,,beli-putus,normal,300
+A-03-01-2-3,v1-722-61575-114411--64-153968,153968,Ghaisani Hijab,Naya Dress for HIJUP,Pink,L,Long Dress,4,347000,0,cons,normal,300
+A-03-01-2-3,v1-722-61573-114404--68-153972,153972,Ghaisani Hijab,Ayesha Dress for HIJUP,Golden Tan,L/XL,Long Dress,1,338000,0,cons,normal,300
+A-03-01-2-4,v1-169-60776-113133--46-151188,151188,Covering Story,Mutia Top,Blue (B),All Size,Blouse,4,260000,0.4,cons,normal,300
+A-03-01-2-4,v1-324-61203-113834--46-152134,152134,Kayva,Aletha Sporty Dress,Black Red,All Size,Long Dress,6,224000,0.3,cons,normal,300
+A-03-01-3-1,v1-79-60343-112343--46-150164,150164,Radwah,Aluna Dress Stripe,Black,All Size,Long Dress,2,325000,0.2,cons,normal,300
+A-03-01-3-2,v1-324-61204-113837--46-152137,152137,Kayva,Talitha Dress 2,Dusty Pink-Grey,All Size,Long Dress,3,249000,0.3,cons,normal,300
+A-03-01-3-2,v1-175-61300-114006--46-152358,152358,Tatuis,Tiara 398 Blue,Blue,All Size,Mukena,4,295000,0.2,cons,normal,800
+A-03-01-3-3,v1-722-61573-114404--76-152860,152860,Ghaisani Hijab,Ayesha Dress for HIJUP,Golden Tan,S/M,Long Dress,11,338000,0,cons,normal,300
+A-03-01-3-4,v1-169-60775-113129--46-151184,151184,Covering Story,Ebiet Dress,Navy (B),All Size,Long Dress,10,325000,0.4,cons,normal,300
+A-03-02-1-1,v1-754-61114-113711--46-151987,151987,Nadjani Indonesia,Shaina Plain Dress,Dusty,All Size,Tunic,3,335000,0,cons,very_fast_moving,300
+A-03-02-1-1,v1-722-61891-114968--76-153593,153593,Ghaisani Hijab,Shakila Dress for HIJUP,Grey,S,Long Dress,12,348000,0,cons,normal,300
+A-03-02-1-2,v1-745-61004-113506--82-151674,151674,Rayaainun,Asma Dress 2,Maroon,XL,Long Dress,20,195000,,cons,normal,300
+A-03-02-1-2,v1-65-61672-114600--46-153146,153146,Myzeekha,Falisha Dress,Mocca,All Size,Long Dress,1,329000,0.35,cons,normal,300
+A-03-02-1-3,v1-745-61005-113507--70-151677,151677,Rayaainun,Asma Dress 1,Black,M,Long Dress,17,195000,,cons,normal,300
+A-03-02-1-3,v1-713-61830-114889--64-153486,153486,Laviolet Clothing,Shila Blouse,Multicolor,L,Blouse,4,279000,,cons,normal,300
+A-03-02-1-3,v1-227-61851-114914--46-153520,153520,Morning Sunshine,Nara Outer,Grey,All Size,Cardigan,2,375000,,cons,normal,300
+A-03-02-1-4,v1-745-60999-113501--82-151665,151665,Rayaainun,HD Afsana 2,Black,XL,Long Dress,4,195000,,cons,normal,300
+A-03-02-1-4,v1-623-62573-116365--188-155422,155422,Bundling Promo ,Luana Top + Manset Halter Neck,Nude - Navy,All Size-M,Manset,1,520071,0,beli-putus,normal,300
+A-03-02-1-4,v1-623-62588-116387--188-155457,155457,Bundling Promo ,Rory Outer + Manset Halter Neck,Mint - Black,All Size-M,Manset,2,528643,0,beli-putus,normal,300
+A-03-02-1-4,v1-623-62573-116365--189-155478,155478,Bundling Promo ,Luana Top + Manset Halter Neck,Nude - Navy,All Size-L,Manset,2,520071,0,beli-putus,normal,300
+A-03-02-1-4,v1-623-62573-116367--189-155480,155480,Bundling Promo ,Luana Top + Manset Halter Neck,Moon Grey - Navy,All Size-L,Manset,3,520071,0,beli-putus,normal,300
+A-03-02-2-1,v1-534-56822-106549--46-143244,143244,Hazelnut,Lorraine Top,Brown/Dusty,All Size,Blouse,4,189000,,cons,normal,300
+A-03-02-2-1,v1-534-59396-110632--46-148050,148050,Hazelnut,Melina Outer,Brown,All Size,Cardigan,4,195000,,cons,normal,300
+A-03-02-2-1,v1-722-61891-114968--76-153593,153593,Ghaisani Hijab,Shakila Dress for HIJUP,Grey,S,Long Dress,8,348000,0,cons,normal,300
+A-03-02-2-2,v1-534-55764-104232--46-140356,140356,Hazelnut,Dominique Top,Black,All Size,Blouse,4,275000,,cons,normal,300
+A-03-02-2-2,v1-534-56243-105349--46-141770,141770,Hazelnut,Garner Top,Mocca,All Size,Blouse,4,275000,,cons,normal,300
+A-03-02-2-2,v1-534-56251-105376--46-141797,141797,Hazelnut,Georgine Dress,Navy,All Size,Long Dress,4,300000,,cons,normal,300
